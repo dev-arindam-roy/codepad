@@ -3,6 +3,12 @@
 ## Code Bank For Developers.
 ### As a developer, You can manage your codes easily.
 
+### Manage Codes
+<img width="959" alt="codepad-1" src="https://user-images.githubusercontent.com/24665327/113599046-ae932000-965b-11eb-8a96-c10e26b4a2c2.png">
+
+### Manage Tabs
+<img width="956" alt="codepad-2" src="https://user-images.githubusercontent.com/24665327/113599174-e0a48200-965b-11eb-9a76-69376b1cbed4.png">
+
 
 ##using LARAVEL 8 & VUE Js
 
