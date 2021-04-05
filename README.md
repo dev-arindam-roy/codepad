@@ -10,7 +10,9 @@
 <img width="956" alt="codepad-2" src="https://user-images.githubusercontent.com/24665327/113599174-e0a48200-965b-11eb-9a76-69376b1cbed4.png">
 
 ### Video guide on youtube, just click & check the guide
+<a href="https://www.youtube.com/watch?v=J6qnSWymyH0" target="_blank">
 <img width="510" alt="codepad-y" src="https://user-images.githubusercontent.com/24665327/113602047-bf459500-965f-11eb-97e5-41f0ed50570f.png">
+</a>
 
 
 ##using LARAVEL 8 & VUE Js
