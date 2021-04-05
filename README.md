@@ -15,7 +15,7 @@
 </a>
 
 
-##using LARAVEL 8 & VUE Js
+## using LARAVEL 8 & VUE Js
 
 
 |HOW TO SET UP IN YOUR LOCAL
